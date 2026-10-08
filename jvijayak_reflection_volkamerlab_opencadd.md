@@ -1,0 +1,5 @@
+# Reflection: volkamerlab_opencadd
+
+The timeline has 3 inactivity gap(s) of at least three months; its longest spans 11 months from 2024-03 through 2025-01. The project is classified as **declining** from its full monthly activity pattern.
+
+Hypothesis: the gap follows CI, formatting, and compatibility maintenance. Nearby issues #158, #159, #161, and #163 report import, deprecated-download, dependency, and superposition problems, but none explains the inactivity itself. The first post-gap commits focus on CI workflow changes, source updates, and GitHub Actions maintenance; PR #162 adds a manual CI trigger. The same contributor appears under the related identities Armin Ariamajd and AAriam (the same GitHub noreply address) before and after the gap. Using the assignment cutoff of 2025-09-30, its current status is **Active**.

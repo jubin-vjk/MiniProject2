@@ -1,0 +1,5 @@
+# Reflection: cannylab_tsne-cuda
+
+The timeline has 7 inactivity gap(s) of at least three months; its longest spans 15 months from 2022-04 through 2023-06. The project is classified as **declining** from its full monthly activity pattern.
+
+Hypothesis: maintenance paused after packaging, installation, and documentation work. No adjacent commit states a reason; GitHub issues #111-#124 around the interval report CUDA, wheel-download, and installation failures. The first post-gap commits add CUDA 12.x and SYCL support and update the README, consistent with renewed platform-compatibility work. Overlapping contributor: David Chan appears before the gap and DavidMChan appears after it; Golam Rabban also contributes after the gap. Using the assignment cutoff of 2025-09-30, its current status is **Inactive**.

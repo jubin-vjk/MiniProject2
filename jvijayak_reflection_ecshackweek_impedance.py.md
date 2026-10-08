@@ -1,0 +1,5 @@
+# Reflection: ecshackweek_impedance.py
+
+The timeline has 7 inactivity gap(s) of at least three months; its longest spans 10 months from 2023-08 through 2024-05. The project is classified as **declining** from its full monthly activity pattern.
+
+Hypothesis: routine maintenance slowed after Python-version and packaging updates. The nearby issue tracker remains active with bug and feature requests, including #265, #266, #267, #268, and #294, so the gap is not evidence that user demand disappeared. The first post-gap work adds Ivium-file support, examples, NumPy 2.0 compatibility, and test fixes; PR #294 also requests Ivium support. The post-gap sample is led by Alejandro Gutiérrez and other contributors, rather than the pre-gap sample's Mattias Sjödin. Using the assignment cutoff of 2025-09-30, its current status is **Inactive**.
